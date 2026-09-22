@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Week 2 - Interactive Gallery & Digital Clock</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Week 2 – Interactive Web Projects</h1>
+        <p>CSS + Basic JavaScript</p>
+    </header>
+
+
+    <!-- ==================== DIGITAL CLOCK ==================== -->
+
+    <section class="clock-section">
+
+        <h2>Digital Clock</h2>
+
+        <div class="clock-container">
+
+            <div id="clock">
+                00:00:00
+            </div>
+
+            <p id="date"></p>
+
+        </div>
+
+    </section>
+
+
+    <!-- ==================== COUNTDOWN ==================== -->
+
+    <section class="countdown-section">
+
+        <h2>Countdown Timer</h2>
+
+        <p class="countdown-title">
+            Countdown to New Year 🎉
+        </p>
+
+        <div class="countdown-container">
+
+            <div class="time-box">
+                <span id="days">00</span>
+                <small>Days</small>
+            </div>
+
+            <div class="time-box">
+                <span id="hours">00</span>
+                <small>Hours</small>
+            </div>
+
+            <div class="time-box">
+                <span id="minutes">00</span>
+                <small>Minutes</small>
+            </div>
+
+            <div class="time-box">
+                <span id="seconds">00</span>
+                <small>Seconds</small>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ==================== IMAGE GALLERY ==================== -->
+
+    <section class="gallery-section">
+
+        <h2>Interactive Image Gallery</h2>
+
+        <p class="gallery-description">
+            Click an image to view it in a larger size.
+        </p>
+
+        <div class="gallery">
+
+            <div class="gallery-item">
+                <img src="images/image1.jpg" alt="Gallery Image 1">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/image2.jpg" alt="Gallery Image 2">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/image3.jpg" alt="Gallery Image 3">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/image4.jpg" alt="Gallery Image 4">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/image5.jpg" alt="Gallery Image 5">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/image6.jpg" alt="Gallery Image 6">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/image7.jpg" alt="Gallery Image 7">
+            </div>
+
+            <div class="gallery-item">
+                <img src="images/image8.jpg" alt="Gallery Image 8">
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ==================== LIGHTBOX ==================== -->
+
+    <div class="lightbox" id="lightbox">
+
+        <button class="close" id="close">&times;</button>
+
+        <button class="prev" id="prev">&#10094;</button>
+
+        <img id="lightbox-image" src="" alt="Large Gallery Image">
+
+        <button class="next" id="next">&#10095;</button>
+
+    </div>
+
+
+    <!-- Footer -->
+
+    <footer>
+        <p>
+            © 2026 Sunil | Web Development Internship – Week 2
+        </p>
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
