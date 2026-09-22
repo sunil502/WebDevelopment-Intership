@@ -83,7 +83,7 @@ No additional installation or dependencies are required.
 
 ## 👨‍💻 Author
 
-**Sunil Maurya**
+**Sunil**
 
 Computer Science Engineering Student
 

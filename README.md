@@ -1,92 +1,59 @@
-# Week 1 – Personal Portfolio Website
+# 🌐 Web Development Internship
 
-A simple personal portfolio webpage created as part of **Week 1 of the Web Development Internship**.
+Welcome to my **Web Development Internship Project Repository**.
 
-## 📌 Project Overview
-
-This project focuses on the fundamentals of **HTML and CSS**, including semantic HTML structure, basic styling, layout, navigation, and responsive design.
-
-The portfolio contains information about my education, skills, and contact details.
-
-## ✨ Features
-
-* Personal introduction
-* Profile photo
-* About section
-* Education section
-* Skills section
-* Contact section
-* Navigation menu
-* Responsive layout for mobile devices
-* Basic hover effects
-* Semantic HTML elements
-
-## 🛠️ Technologies Used
-
-* HTML5
-* CSS3
-
-## 📂 Project Structure
-
-```text
-Week1/
-│
-├── index.html
-├── style.css
-└── profile.jpeg
-```
-
-## 📚 Concepts Learned
-
-### HTML
-
-* HTML document structure
-* Semantic tags
-* Headings and paragraphs
-* Images
-* Links
-* Lists
-* Navigation
-* Sections and footer
-
-### CSS
-
-* Selectors
-* Colors and backgrounds
-* Margin and padding
-* Flexbox
-* Borders and border-radius
-* Box shadows
-* Hover effects
-* Responsive design using media queries
-
-## 🚀 How to Run
-
-1. Clone or download this repository.
-2. Open the `Week1` folder.
-3. Open `index.html` in any web browser.
-
-No additional installation or dependencies are required.
-
-## 🎯 Internship Assignment
-
-**Week:** 1
-**Focus:** HTML & CSS Fundamentals
-**Assignment:** Create a Personal Portfolio Webpage
-
-### Required Sections
-
-* About
-* Education
-* Skills
-* Contact
-
-## 👨‍💻 Author
-
-**Sunil Maurya**
-
-Computer Science Engineering Student
+This repository contains the projects and assignments completed during my Web Development Internship. The internship focuses on building a strong foundation in **HTML, CSS, JavaScript, responsive design, DOM manipulation, animations, and interactive web development**.
 
 ---
 
-⭐ This project was created as part of my Web Development Internship learning journey.
+## 👨‍💻 About Me
+
+**Name:** Sunil
+
+**Course:** B.Tech – Computer Science & Engineering (AI & ML)
+
+**Role:** Web Development Intern
+
+During this internship, I am working on practical web development assignments to improve my frontend development skills and gain hands-on experience by building real-world projects.
+
+---
+
+# 📚 Internship Progress
+
+| Week | Topic | Status |
+|------|-------|--------|
+| Week 1 | HTML & CSS Fundamentals | ✅ Completed |
+| Week 2 | CSS + JavaScript & Interactivity | ✅ Completed |
+| Week 3 | Coming Soon | ⏳ Pending |
+| Week 4 | Coming Soon | ⏳ Pending |
+
+---
+
+# 📁 Repository Structure
+
+```text
+WebDevelopment-Intership/
+│
+├── README.md
+│
+├── Week1/
+│   ├── README.md
+│   ├── index.html
+│   ├── style.css
+│   └── profile.jpeg
+│
+└── Week2/
+    ├── README.md
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    │
+    └── images/
+        ├── image1.jpg
+        ├── image2.jpg
+        ├── image3.jpg
+        ├── image4.jpg
+        ├── image5.jpg
+        ├── image6.jpg
+        ├── image7.jpg
+        └── image8.jpg
